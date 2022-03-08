@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T17:31:06.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QgBV59ipKjI4rEd-xMRl" version="17.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-08T18:01:02.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="2t5TGgndPehIrEG4TbSH" version="17.0.0" type="github" pages="3">
   <diagram id="I0W5fS5LRaxKxFZAML5S" name="Ground Floor">
     <mxGraphModel dx="5787" dy="3000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -903,6 +903,14 @@
         <mxCell id="p-utsjDWfj-9V3xu3m9--65" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorOverhead;direction=north;strokeWidth=12;" vertex="1" parent="5hPDgd-zjEbISk2O2s88-1">
           <mxGeometry x="2080" y="1785" width="30" height="290" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wVnOWZ3qVPxDMFYGXBKn" name="Second Floor">
+    <mxGraphModel dx="2480" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="5adNExf238EeZVNB-jY9-0" />
+        <mxCell id="5adNExf238EeZVNB-jY9-1" parent="5adNExf238EeZVNB-jY9-0" />
       </root>
     </mxGraphModel>
   </diagram>
